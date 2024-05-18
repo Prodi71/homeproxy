@@ -338,6 +338,7 @@ appdownloader.net
 appledaily.com
 appledaily.com.hk
 appledaily.com.tw
+apps.evozi.com
 appshopper.com
 appsocks.net
 appspot.com
@@ -347,6 +348,7 @@ ar.hao123.com
 archive.fo
 archive.is
 archive.li
+archive.md
 archive.org
 archive.ph
 archive.today
@@ -634,7 +636,6 @@ blogger.com
 blogimg.jp
 bloglines.com
 bloglovin.com
-blogs.icerocket.com
 blogs.libraryinformationtechnology.com
 blogs.tampabay.com
 blogs.yahoo.co.jp
@@ -817,6 +818,7 @@ c-span.org
 c-spanvideo.org
 c100tibet.org
 c2cx.com
+cableav.tv
 cablegatesearch.net
 cachinese.com
 cacnw.com
@@ -826,6 +828,7 @@ cahr.org.tw
 caijinglengyan.com
 calameo.com
 calebelston.com
+calendarz.com
 calgarychinese.ca
 calgarychinese.com
 calgarychinese.net
@@ -892,8 +895,10 @@ cdef.org
 cdig.info
 cdjp.org
 cdn-images.mailchimp.com
+cdn-telegram.org
 cdn.assets.lfpcontent.com
 cdn.helixstudios.net
+cdn.jwplayer.com
 cdn.printfriendly.com
 cdn.seatguru.com
 cdn.softlayer.net
@@ -1043,6 +1048,7 @@ chubold.com
 chubun.com
 churchinhongkong.org
 chushigangdrug.ch
+ciciai.com
 cienen.com
 cineastentreff.de
 cipfg.org
@@ -1144,6 +1150,7 @@ com.google
 comefromchina.com
 comic-mega.me
 commandarms.com
+comments.app
 commentshk.com
 communistcrimes.org
 community.windy.com
@@ -1171,6 +1178,7 @@ costco.com
 cotweet.com
 counter.social
 coursehero.com
+coze.com
 cpj.org
 cq99.us
 crackle.com
@@ -1604,6 +1612,7 @@ etaa.org.au
 etadult.com
 etaiwannews.com
 etherdelta.com
+ethermine.org
 etherscan.io
 etizer.org
 etokki.com
@@ -1640,6 +1649,7 @@ eyny.com
 ezpc.tk
 ezpeer.com
 ezua.com
+f2pool.com
 f8.com
 fa.gov.tw
 facebook.br
@@ -2003,6 +2013,7 @@ geekerhome.com
 geekheart.info
 gekikame.com
 gelbooru.com
+generated.photos
 genius.com
 geocities.co.jp
 geocities.com
@@ -2365,6 +2376,7 @@ gr8name.biz
 grammaly.com
 grandtrial.org
 grangorz.org
+graph.org
 graphis.ne.jp
 graphql.org
 gravatar.com
@@ -2644,6 +2656,7 @@ hrcchina.org
 hrcir.com
 hrea.org
 hrichina.org
+hrntt.org
 hrtsea.com
 hrw.org
 hrweb.org
@@ -2673,6 +2686,8 @@ hub.docker.com
 hudatoriq.web.id
 hudson.org
 huffingtonpost.com
+huffpost.com
+huggingface.co
 hugoroy.eu
 huhaitai.com
 huhamhire.com
@@ -2681,6 +2696,7 @@ huiyi.in
 hulkshare.com
 hulu.com
 huluim.com
+humanparty.me
 humanrightspressawards.org
 hung-ya.com
 hungerstrikeforaids.org
@@ -2726,6 +2742,7 @@ ibros.org
 ibvpn.com
 icams.com
 ice.audionow.com
+icedrive.net
 icij.org
 icl-fi.org
 icoco.com
@@ -3647,6 +3664,7 @@ newlandmagazine.com.au
 newmitbbs.com
 newnews.ca
 news.cnyes.com
+news.ebc.net.tw
 news.hk.msn.com
 news.msn.com.tw
 news.nationalgeographic.com
@@ -3745,6 +3763,7 @@ noxinfluencer.com
 noypf.com
 npa.go.jp
 npa.gov.tw
+npm.gov.tw
 npnt.me
 nps.gov
 npsboost.com
@@ -4123,6 +4142,7 @@ postimg.org
 posts.careerengine.us
 potato.im
 potvpn.com
+pourquoi.tw
 power.com
 powerapple.com
 powercx.com
@@ -4227,6 +4247,7 @@ quantumbooter.net
 questvisual.com
 quitccp.net
 quitccp.org
+quiz.directory
 quora.com
 quoracdn.net
 quran.com
@@ -4360,6 +4381,7 @@ ronjoneswriter.com
 roodo.com
 rosechina.net
 rotten.com
+rou.video
 rsdlmonitor.com
 rsf-chinese.org
 rsf.org
@@ -4924,14 +4946,17 @@ teensinasia.com
 tehrantimes.com
 telecomspace.com
 telegra.ph
+telegram-cdn.org
 telegram.dog
 telegram.me
 telegram.org
+telegram.space
 telegramdownload.com
 telegraph.co.uk
 telesco.pe
 tellme.pw
 tenacy.com
+tenor.com
 tensorflow.org
 tenzinpalmo.com
 terabox.com
@@ -5659,6 +5684,7 @@ wattpad.com
 wav.tv
 waveprotocol.org
 waymo.com
+wd.bible
 wda.gov.tw
 wdf5.com
 wealth.com.tw
@@ -6067,6 +6093,7 @@ yzzk.com
 z-lib.org
 zacebook.com
 zalmos.com
+zamimg.com
 zannel.com
 zaobao.com
 zaobao.com.sg
